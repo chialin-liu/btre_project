@@ -8,3 +8,7 @@ run in the virtual environment
 source ./venv/bin/activate
 ```
 
+collect static files
+```
+python manage.py collectstatic
+```
