@@ -1,16 +1,16 @@
 
 Real Estate App Requirements
 
-FRONTEND PAGES
+# FRONTEND PAGES
 
-•	Home
-•	About
-•	Listings
-•	Single Listing
-•	Search
-•	Register
-•	Login
-•	Dashboard (Inquiries)
+### Home
+### About
+### Listings
+### Single Listing
+### Search
+### Register
+### Login
+### Dashboard (Inquiries)
 
 DESIGN SPECS
 •	Use BTRE logo (Frontend and admin)
@@ -82,4 +82,23 @@ pip install psycopg2-binary
 migrate to check postgresql
 ```
 python manage.py migrate
+```
+make migrations
+```
+python manage.py makemigrations
+```
+
+install Pillow for use ImageField
+```
+pip install Pillow 
+```
+
+check listing is sql
+```
+python manage.py sqlmigrate listings 0001
+```
+
+create user login
+```
+python manage.py createsuperuser
 ```
