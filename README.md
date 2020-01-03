@@ -3,24 +3,24 @@ Real Estate App Requirements
 
 # FRONTEND PAGES
 
-### Home
-### About
-### Listings
-### Single Listing
-### Search
-### Register
-### Login
-### Dashboard (Inquiries)
+1. Home
+2. About
+3. Listings
+4. Single Listing
+5. Search
+6. Register
+7. Login
+8. Dashboard (Inquiries)
 
-DESIGN SPECS
-•	Use BTRE logo (Frontend and admin)
-•	Branding colors – blue(#10284e) green(#30caa0)
-•	Mobile Friendly
-•	Social media icons & contact info
-•	Doesn’t have to be too fancy but must be clean
+# DESIGN SPECS
+1. Use BTRE logo (Frontend and admin)
+2. Branding colors – blue(#10284e) green(#30caa0)
+3. Mobile Friendly
+4. Social media icons & contact info
+5. Doesn’t have to be too fancy but must be clean
 
 
-FUNCTIONALITY SPECS
+# FUNCTIONALITY SPECS
 •	Manage listings, realtors, contact inquiries and website users via admin
 •	Role based users (staff and non-staff)
 •	Display listings in app with pagination
