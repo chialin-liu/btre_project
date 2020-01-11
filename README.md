@@ -102,3 +102,10 @@ install pip pylint-django
 ```
 pip install pylint-django
 ```
+
+install python startapp contact
+```
+python manage.py startapp contacts
+python manage.py makemigrations contacts
+python manage.py migrate
+```
